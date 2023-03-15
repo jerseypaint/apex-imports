@@ -118,8 +118,8 @@ export default {
       group: 'templateDefaults',
     },
     {
-      name: 'productHeader',
-      title: 'Product Header',
+      name: 'vehicleHeader',
+      title: 'Vehicle Header',
       type: 'image',
       options: {
         hotspot: true,
@@ -127,7 +127,7 @@ export default {
       group: 'templateDefaults',
     },
     {
-      title: 'Product Footer Link Boxes',
+      title: 'Footer Link Boxes',
       name: 'footerLinkBoxes',
       type: 'array',
       of: [{

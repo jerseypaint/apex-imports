@@ -10,6 +10,8 @@ export default {
       title: 'Block',
       type: 'block',
       styles: [
+        {title: 'Normal', value: 'normal'},
+        {title: 'H4', value: 'h4'}
       ],
       marks: {
         decorators: [
